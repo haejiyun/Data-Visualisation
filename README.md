@@ -1,4 +1,4 @@
-# Dataviz
+# Data Visualisation
 <br/>
 This repository features data visualizations created using Tableau, focusing on various global and socio-economic topics.
 <br/>
