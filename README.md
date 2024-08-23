@@ -28,9 +28,9 @@ Multi-label Classification, employing zero-shot classification to categorize rev
 <br/>
 
 <p align="center">
-  <img src="https://github.com/haejiyun/data-visualisation/blob/main/Drinking%20Water%20Storyboard/world.png" width="300" height="230">
-  <img src="https://github.com/haejiyun/data-visualisation/blob/main/Drinking%20Water%20Storyboard/continent.png" width="300" height="230">
-  <img src="https://github.com/haejiyun/data-visualisation/blob/main/Drinking%20Water%20Storyboard/country.png" width="300" height="230">
+  <img src="https://github.com/haejiyun/data-visualisation/blob/main/Drinking%20Water%20Storyboard/world.png" width="250" height="200">
+  <img src="https://github.com/haejiyun/data-visualisation/blob/main/Drinking%20Water%20Storyboard/continent.png" width="250" height="200">
+  <img src="https://github.com/haejiyun/data-visualisation/blob/main/Drinking%20Water%20Storyboard/country.png" width="250" height="200">
 <p/>
 
 <a href="https://public.tableau.com/app/profile/digitalhip/viz/drinkingwater_16629834019640/tateaupotable">Storyboard</a>
