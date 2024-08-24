@@ -13,7 +13,7 @@ To achieve this, we examined various key indicators:
 - Mortality Rate Linked to Unsafe Water
 - Political Effectiveness, which integrates the Political Stability Index, the share of access to drinking water, and the mortality rate associated with unsafe water
 
-These indicators are presented at three levels-global, continental, and national-to provide multiple perspectives on the issue. The storyboard effectively communicates the state of drinking water access around the world, utilizing datasets related to countries, political stability, and mortality rates associated with unsafe water. This visualization serves as a tool for stakeholders to make informed decisions regarding water access initiatives.
+These indicators are presented at three levels(global, continental, and national) to provide multiple perspectives on the issue. The storyboard effectively communicates the state of drinking water access around the world, utilizing datasets related to countries, political stability, and mortality rates associated with unsafe water. This visualization serves as a tool for stakeholders to make informed decisions regarding water access initiatives.
 <br/>
 
 <p align="center">
