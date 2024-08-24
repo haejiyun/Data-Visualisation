@@ -1,18 +1,19 @@
 # Data Visualisation
 
-
+Welcome to my Data Visualization portfolio, where I transform complex datasets into compelling visual stories. By using tools like Tableau, I aim to create intuitive dashboards and storyboards that make data insights accessible and actionable. My work is driven by a passion for clarity, ensuring that every visualization not only informs but also inspires decision-making.
 
 ----------
 ## [Tableau] Drinking Water Dashboard/Storyboard
 
-study of access to drinking water in the world for an effective choice of new target countries. with the aim of the modernization of water access services on the one hand, and optimization of water access policies on the other hand,  we studied different corresponding indicators: 
-	- total population and its urban/rural distribution
-	- Share of population with access to water and its evolution over time
-	- Mortality rate linked to unsafe water
-	- Political effectiveness which combines the political stability index, the share of access to drinking water, and the mortality rate linked to unsafe water
-These indicators are presented on three levels to provide different points of view. The three levels are the global level, the continental level and the national level.
-Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.
+This project involves the creation of a comprehensive storyboard to analyze global access to drinking water, with the objective of identifying potential target countries for improving water access services. The study is twofold: modernizing water access services and optimizing water access policies.
 
+To achieve this, we examined various key indicators:
+- Total Population and its Urban/Rural Distribution
+- Share of Population with Access to Water and its evolution over time
+- Mortality Rate Linked to Unsafe Water
+- Political Effectiveness, which integrates the Political Stability Index, the share of access to drinking water, and the mortality rate associated with unsafe water
+
+These indicators are presented at three levels—global, continental, and national—to provide multiple perspectives on the issue. The storyboard effectively communicates the state of drinking water access around the world, utilizing datasets related to countries, political stability, and mortality rates associated with unsafe water. This visualization serves as a tool for stakeholders to make informed decisions regarding water access initiatives.
 <br/>
 
 <p align="center">
