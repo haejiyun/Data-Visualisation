@@ -1,30 +1,20 @@
 # Data Visualisation
-<br/>
-This repository features data visualizations created using Tableau, focusing on various global and socio-economic topics.
-<br/>
-
-----------
-
-- **[Tableau] Drinking Water Dashboard/Storyboard**<br/>
-Storyboard : [click here](https://public.tableau.com/app/profile/digitalhip/viz/drinkingwater_16629834019640/tateaupotable)<br/>
-Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.
-<br/>
 
 
-# Data Visualisation
-
-Welcome to my Natural Language Processing (NLP) portfolio, where I explore the power of advanced NLP techniques to extract meaningful insights from textual data. My work focuses on leveraging state-of-the-art models and tools to tackle complex language-related challenges. 
 
 ----------
 ## [Tableau] Drinking Water Dashboard/Storyboard
 
-This project aims to analyze Airbnb guest experiences in Paris over various time periods by applying advanced Natural Language Processing (NLP) techniques to guest reviews. By integrating different NLP tasks, the study provides comprehensive insights and a detailed overview of guest sentiments and experiences. The results of this analysis were presented through an interactive Streamlit application.
+study of access to drinking water in the world for an effective choice of new target countries. with the aim of the modernization of water access services on the one hand, and optimization of water access policies on the other hand,  we studied different corresponding indicators: 
+	- total population and its urban/rural distribution
+	- Share of population with access to water and its evolution over time
+	- Mortality rate linked to unsafe water
+	- Political effectiveness which combines the political stability index, the share of access to drinking water, and the mortality rate linked to unsafe water
+These indicators are presented on three levels to provide different points of view. The three levels are the global level, the continental level and the national level.
 
-The NLP pipeline utilized includes:
-Language Detection, identifying the language of each review.
-Translation, converting non-English reviews into English.
-Sentiment Analysis, using state-of-the-art transformer models like BERT to determine the sentiment of the reviews.
-Multi-label Classification, employing zero-shot classification to categorize review content into multiple relevant categories without the need for extensive labeled training data.
+
+Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.![image](https://github.com/user-attachments/assets/81341123-d332-4e6d-95b7-4b850cd08df8)
+
 <br/>
 
 <p align="center">
