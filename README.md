@@ -11,8 +11,7 @@ study of access to drinking water in the world for an effective choice of new ta
 	- Mortality rate linked to unsafe water
 	- Political effectiveness which combines the political stability index, the share of access to drinking water, and the mortality rate linked to unsafe water
 These indicators are presented on three levels to provide different points of view. The three levels are the global level, the continental level and the national level.
-
-Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.![image](https://github.com/user-attachments/assets/81341123-d332-4e6d-95b7-4b850cd08df8)
+Creation of storyboard presenting drinking water situation in the world. Datasets related to country, political stability, mortality in relation with drinking water were used to visualize differents safe water indicators.
 
 <br/>
 
